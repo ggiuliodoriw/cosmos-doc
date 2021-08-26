@@ -1,14 +1,15 @@
-CLONE REPO: 
+# CLONE REPO:
+- git clone git@github.com:ggiuliodoriw/cosmos-doc.git
 
-Requisitos:
+## Requisitos:
 - Make
 - Docker
 
-Build Docker Image:
+## Build Docker Image:
 - make build
 
-Run app:
+## Run app:
 - make run
 
-Restart:
+## Restart:
 - make force-restart
